@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db016"
+  },
+  "id": "1",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db017"
+  },
+  "id": "2",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db018"
+  },
+  "id": "3",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db019"
+  },
+  "id": "4",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01a"
+  },
+  "id": "5",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01b"
+  },
+  "id": "6",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01c"
+  },
+  "id": "7",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01d"
+  },
+  "id": "8",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01e"
+  },
+  "id": "9",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db01f"
+  },
+  "id": "10",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db020"
+  },
+  "id": "11",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db021"
+  },
+  "id": "12",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db022"
+  },
+  "id": "13",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db023"
+  },
+  "id": "14",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db024"
+  },
+  "id": "15",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db025"
+  },
+  "id": "16",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db026"
+  },
+  "id": "17",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db027"
+  },
+  "id": "18",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db028"
+  },
+  "id": "19",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db029"
+  },
+  "id": "20",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02a"
+  },
+  "id": "21",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02b"
+  },
+  "id": "22",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02c"
+  },
+  "id": "23",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02d"
+  },
+  "id": "24",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02e"
+  },
+  "id": "25",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db02f"
+  },
+  "id": "26",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db030"
+  },
+  "id": "27",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db031"
+  },
+  "id": "28",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db032"
+  },
+  "id": "29",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db033"
+  },
+  "id": "30",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db034"
+  },
+  "id": "31",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db035"
+  },
+  "id": "32",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db036"
+  },
+  "id": "33",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db037"
+  },
+  "id": "34",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db038"
+  },
+  "id": "35",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db039"
+  },
+  "id": "36",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db03a"
+  },
+  "id": "37",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db03b"
+  },
+  "id": "38",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db03c"
+  },
+  "id": "39",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+},
+{
+  "_id": {
+    "$oid": "663fe09e437b4b4ba93db03d"
+  },
+  "id": "40",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "resultados": "pendiente por jugar"
+}]

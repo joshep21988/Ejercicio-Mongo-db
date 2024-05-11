@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "663fe1b0437b4b4ba93db042"
+  },
+  "id": "1",
+  "nombre": "Manchester United",
+  "puntos": "0",
+  "goles a favor": "0",
+  "goles en contra": "0",
+  "diferencia de goles": "0",
+  "tarjetas amarillas": "0",
+  "tarjetar rojas": "0"
+},
+{
+  "_id": {
+    "$oid": "663fe1b0437b4b4ba93db043"
+  },
+  "id": "2",
+  "nombre": "Real Madrid",
+  "puntos": "0",
+  "goles a favor": "0",
+  "goles en contra": "0",
+  "diferencia de goles": "0",
+  "tarjetas amarillas": "0",
+  "tarjetar rojas": "0"
+},
+{
+  "_id": {
+    "$oid": "663fe1b0437b4b4ba93db044"
+  },
+  "id": "3",
+  "nombre": "Barcelona",
+  "puntos": "0",
+  "goles a favor": "0",
+  "goles en contra": "0",
+  "diferencia de goles": "0",
+  "tarjetas amarillas": "0",
+  "tarjetar rojas": "0"
+},
+{
+  "_id": {
+    "$oid": "663fe1b0437b4b4ba93db045"
+  },
+  "id": "4",
+  "nombre": "Bayern Munich",
+  "puntos": "0",
+  "goles a favor": "0",
+  "goles en contra": "0",
+  "diferencia de goles": "0",
+  "tarjetas amarillas": "0",
+  "tarjetar rojas": "0"
+},
+{
+  "_id": {
+    "$oid": "663fe1b0437b4b4ba93db046"
+  },
+  "id": "5",
+  "nombre": "Juventus",
+  "puntos": "0",
+  "goles a favor": "0",
+  "goles en contra": "0",
+  "diferencia de goles": "0",
+  "tarjetas amarillas": "0",
+  "tarjetar rojas": "0"
+}]

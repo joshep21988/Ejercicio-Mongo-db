@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db04e"
+  },
+  "id": "1",
+  "nombre": "Juan Martinez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db04f"
+  },
+  "id": "2",
+  "nombre": "Maria Lopez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db050"
+  },
+  "id": "3",
+  "nombre": "Pedro Sanchez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db051"
+  },
+  "id": "4",
+  "nombre": "Ana Ramirez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db052"
+  },
+  "id": "5",
+  "nombre": "Luisa Fernandez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db053"
+  },
+  "id": "6",
+  "nombre": "Carlos Gomez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db054"
+  },
+  "id": "7",
+  "nombre": "Laura Rodriguez"
+},
+{
+  "_id": {
+    "$oid": "663fe208437b4b4ba93db055"
+  },
+  "id": "8",
+  "nombre": "Diego Herrera"
+}]

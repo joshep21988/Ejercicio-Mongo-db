@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafe7"
+  },
+  "id": "1",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "fecha": "June 1, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafe8"
+  },
+  "id": "2",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "fecha": "June 2, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafe9"
+  },
+  "id": "3",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "fecha": "June 3, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafea"
+  },
+  "id": "4",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "fecha": "June 4, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafeb"
+  },
+  "id": "5",
+  "local": "Real Madrid",
+  "visitante": "Manchester United",
+  "fecha": "June 5, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafec"
+  },
+  "id": "6",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "fecha": "June 6, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafed"
+  },
+  "id": "7",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "fecha": "June 7, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafee"
+  },
+  "id": "8",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "fecha": "June 8, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafef"
+  },
+  "id": "9",
+  "local": "Barcelona",
+  "visitante": "Manchester United",
+  "fecha": "June 9, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff0"
+  },
+  "id": "10",
+  "local": "Barcelona",
+  "visitante": "Real Madrid",
+  "fecha": "June 10, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff1"
+  },
+  "id": "11",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "fecha": "June 11, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff2"
+  },
+  "id": "12",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "fecha": "June 12, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff3"
+  },
+  "id": "13",
+  "local": "Bayern Munich",
+  "visitante": "Manchester United",
+  "fecha": "June 13, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff4"
+  },
+  "id": "14",
+  "local": "Bayern Munich",
+  "visitante": "Real Madrid",
+  "fecha": "June 14, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff5"
+  },
+  "id": "15",
+  "local": "Bayern Munich",
+  "visitante": "Barcelona",
+  "fecha": "June 15, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff6"
+  },
+  "id": "16",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "fecha": "June 16, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff7"
+  },
+  "id": "17",
+  "local": "Juventus",
+  "visitante": "Manchester United",
+  "fecha": "June 17, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff8"
+  },
+  "id": "18",
+  "local": "Juventus",
+  "visitante": "Real Madrid",
+  "fecha": "June 18, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daff9"
+  },
+  "id": "19",
+  "local": "Juventus",
+  "visitante": "Barcelona",
+  "fecha": "June 19, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daffa"
+  },
+  "id": "20",
+  "local": "Juventus",
+  "visitante": "Bayern Munich",
+  "fecha": "June 20, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daffb"
+  },
+  "id": "21",
+  "local": "Manchester United",
+  "visitante": "Real Madrid",
+  "fecha": "June 21, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daffc"
+  },
+  "id": "22",
+  "local": "Manchester United",
+  "visitante": "Barcelona",
+  "fecha": "June 22, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daffd"
+  },
+  "id": "23",
+  "local": "Manchester United",
+  "visitante": "Bayern Munich",
+  "fecha": "June 23, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93daffe"
+  },
+  "id": "24",
+  "local": "Manchester United",
+  "visitante": "Juventus",
+  "fecha": "June 24, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93dafff"
+  },
+  "id": "25",
+  "local": "Real Madrid",
+  "visitante": "Manchester United",
+  "fecha": "June 25, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db000"
+  },
+  "id": "26",
+  "local": "Real Madrid",
+  "visitante": "Barcelona",
+  "fecha": "June 26, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db001"
+  },
+  "id": "27",
+  "local": "Real Madrid",
+  "visitante": "Bayern Munich",
+  "fecha": "June 27, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db002"
+  },
+  "id": "28",
+  "local": "Real Madrid",
+  "visitante": "Juventus",
+  "fecha": "June 28, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db003"
+  },
+  "id": "29",
+  "local": "Barcelona",
+  "visitante": "Manchester United",
+  "fecha": "June 29, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db004"
+  },
+  "id": "30",
+  "local": "Barcelona",
+  "visitante": "Real Madrid",
+  "fecha": "June 30, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db005"
+  },
+  "id": "31",
+  "local": "Barcelona",
+  "visitante": "Bayern Munich",
+  "fecha": "July 1, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db006"
+  },
+  "id": "32",
+  "local": "Barcelona",
+  "visitante": "Juventus",
+  "fecha": "July 2, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db007"
+  },
+  "id": "33",
+  "local": "Bayern Munich",
+  "visitante": "Manchester United",
+  "fecha": "July 3, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db008"
+  },
+  "id": "34",
+  "local": "Bayern Munich",
+  "visitante": "Real Madrid",
+  "fecha": "July 4, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db009"
+  },
+  "id": "35",
+  "local": "Bayern Munich",
+  "visitante": "Barcelona",
+  "fecha": "July 5, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db00a"
+  },
+  "id": "36",
+  "local": "Bayern Munich",
+  "visitante": "Juventus",
+  "fecha": "July 6, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db00b"
+  },
+  "id": "37",
+  "local": "Juventus",
+  "visitante": "Manchester United",
+  "fecha": "July 7, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db00c"
+  },
+  "id": "38",
+  "local": "Juventus",
+  "visitante": "Real Madrid",
+  "fecha": "July 8, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db00d"
+  },
+  "id": "39",
+  "local": "Juventus",
+  "visitante": "Barcelona",
+  "fecha": "July 9, 2024"
+},
+{
+  "_id": {
+    "$oid": "663fe034437b4b4ba93db00e"
+  },
+  "id": "40",
+  "local": "Juventus",
+  "visitante": "Bayern Munich",
+  "fecha": "July 10, 2024"
+}]

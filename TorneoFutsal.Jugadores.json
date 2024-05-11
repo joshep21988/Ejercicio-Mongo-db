@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa0"
+  },
+  "id": "1",
+  "nombre": "David de Gea",
+  "numeroDorsal": "1",
+  "Posicion": "Portero",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa1"
+  },
+  "id": "2",
+  "nombre": "Aaron Wan-Bissaka",
+  "numeroDorsal": "29",
+  "Posicion": "Defensa",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa2"
+  },
+  "id": "3",
+  "nombre": "Harry Maguire",
+  "numeroDorsal": "5",
+  "Posicion": "Defensa",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa3"
+  },
+  "id": "4",
+  "nombre": "Victor Lindelof",
+  "numeroDorsal": "2",
+  "Posicion": "Defensa",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa4"
+  },
+  "id": "5",
+  "nombre": "Luke Shaw",
+  "numeroDorsal": "23",
+  "Posicion": "Defensa",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa5"
+  },
+  "id": "6",
+  "nombre": "Paul Pogba",
+  "numeroDorsal": "6",
+  "Posicion": "Mediocampista",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa6"
+  },
+  "id": "7",
+  "nombre": "Bruno Fernandes",
+  "numeroDorsal": "18",
+  "Posicion": "Mediocampista",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa7"
+  },
+  "id": "8",
+  "nombre": "Marcus Rashford",
+  "numeroDorsal": "10",
+  "Posicion": "Delantero",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa8"
+  },
+  "id": "9",
+  "nombre": "Edinson Cavani",
+  "numeroDorsal": "7",
+  "Posicion": "Delantero",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafa9"
+  },
+  "id": "10",
+  "nombre": "Mason Greenwood",
+  "numeroDorsal": "11",
+  "Posicion": "Delantero",
+  "Equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafaa"
+  },
+  "id": "11",
+  "nombre": "Thibaut Courtois",
+  "numeroDorsal": "1",
+  "Posicion": "Portero",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafab"
+  },
+  "id": "12",
+  "nombre": "Dani Carvajal",
+  "numeroDorsal": "2",
+  "Posicion": "Defensa",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafac"
+  },
+  "id": "13",
+  "nombre": "Sergio Ramos",
+  "numeroDorsal": "4",
+  "Posicion": "Defensa",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafad"
+  },
+  "id": "14",
+  "nombre": "Raphael Varane",
+  "numeroDorsal": "5",
+  "Posicion": "Defensa",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafae"
+  },
+  "id": "15",
+  "nombre": "Marcelo",
+  "numeroDorsal": "12",
+  "Posicion": "Defensa",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafaf"
+  },
+  "id": "16",
+  "nombre": "Toni Kroos",
+  "numeroDorsal": "8",
+  "Posicion": "Mediocampista",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb0"
+  },
+  "id": "17",
+  "nombre": "Luka Modric",
+  "numeroDorsal": "10",
+  "Posicion": "Mediocampista",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb1"
+  },
+  "id": "18",
+  "nombre": "Karim Benzema",
+  "numeroDorsal": "9",
+  "Posicion": "Delantero",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb2"
+  },
+  "id": "19",
+  "nombre": "Eden Hazard",
+  "numeroDorsal": "7",
+  "Posicion": "Delantero",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb3"
+  },
+  "id": "20",
+  "nombre": "Vinicius Junior",
+  "numeroDorsal": "20",
+  "Posicion": "Delantero",
+  "Equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb4"
+  },
+  "id": "21",
+  "nombre": "Marc-Andre ter Stegen",
+  "numeroDorsal": "1",
+  "Posicion": "Portero",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb5"
+  },
+  "id": "22",
+  "nombre": "Sergi Roberto",
+  "numeroDorsal": "20",
+  "Posicion": "Defensa",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb6"
+  },
+  "id": "23",
+  "nombre": "Gerard Pique",
+  "numeroDorsal": "3",
+  "Posicion": "Defensa",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb7"
+  },
+  "id": "24",
+  "nombre": "Clement Lenglet",
+  "numeroDorsal": "15",
+  "Posicion": "Defensa",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb8"
+  },
+  "id": "25",
+  "nombre": "Jordi Alba",
+  "numeroDorsal": "18",
+  "Posicion": "Defensa",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafb9"
+  },
+  "id": "26",
+  "nombre": "Frenkie de Jong",
+  "numeroDorsal": "21",
+  "Posicion": "Mediocampista",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafba"
+  },
+  "id": "27",
+  "nombre": "Sergio Busquets",
+  "numeroDorsal": "5",
+  "Posicion": "Mediocampista",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafbb"
+  },
+  "id": "28",
+  "nombre": "Lionel Messi",
+  "numeroDorsal": "10",
+  "Posicion": "Delantero",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafbc"
+  },
+  "id": "29",
+  "nombre": "Antoine Griezmann",
+  "numeroDorsal": "7",
+  "Posicion": "Delantero",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafbd"
+  },
+  "id": "30",
+  "nombre": "Ousmane Dembele",
+  "numeroDorsal": "11",
+  "Posicion": "Delantero",
+  "Equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafbe"
+  },
+  "id": "31",
+  "nombre": "Manuel Neuer",
+  "numeroDorsal": "1",
+  "Posicion": "Portero",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafbf"
+  },
+  "id": "32",
+  "nombre": "Benjamin Pavard",
+  "numeroDorsal": "5",
+  "Posicion": "Defensa",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc0"
+  },
+  "id": "33",
+  "nombre": "Jerome Boateng",
+  "numeroDorsal": "17",
+  "Posicion": "Defensa",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc1"
+  },
+  "id": "34",
+  "nombre": "David Alaba",
+  "numeroDorsal": "27",
+  "Posicion": "Defensa",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc2"
+  },
+  "id": "35",
+  "nombre": "Lucas Hernandez",
+  "numeroDorsal": "21",
+  "Posicion": "Defensa",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc3"
+  },
+  "id": "36",
+  "nombre": "Joshua Kimmich",
+  "numeroDorsal": "6",
+  "Posicion": "Mediocampista",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc4"
+  },
+  "id": "37",
+  "nombre": "Leon Goretzka",
+  "numeroDorsal": "18",
+  "Posicion": "Mediocampista",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc5"
+  },
+  "id": "38",
+  "nombre": "Robert Lewandowski",
+  "numeroDorsal": "9",
+  "Posicion": "Delantero",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc6"
+  },
+  "id": "39",
+  "nombre": "Thomas Muller",
+  "numeroDorsal": "25",
+  "Posicion": "Delantero",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc7"
+  },
+  "id": "40",
+  "nombre": "Leroy Sane",
+  "numeroDorsal": "10",
+  "Posicion": "Delantero",
+  "Equipo": "Bayern Munich"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc8"
+  },
+  "id": "41",
+  "nombre": "Wojciech Szczesny",
+  "numeroDorsal": "1",
+  "Posicion": "Portero",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafc9"
+  },
+  "id": "42",
+  "nombre": "Juan Cuadrado",
+  "numeroDorsal": "16",
+  "Posicion": "Defensa",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafca"
+  },
+  "id": "43",
+  "nombre": "Leonardo Bonucci",
+  "numeroDorsal": "19",
+  "Posicion": "Defensa",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafcb"
+  },
+  "id": "44",
+  "nombre": "Matthijs de Ligt",
+  "numeroDorsal": "4",
+  "Posicion": "Defensa",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafcc"
+  },
+  "id": "45",
+  "nombre": "Alex Sandro",
+  "numeroDorsal": "12",
+  "Posicion": "Defensa",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafcd"
+  },
+  "id": "46",
+  "nombre": "Arthur",
+  "numeroDorsal": "5",
+  "Posicion": "Mediocampista",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafce"
+  },
+  "id": "47",
+  "nombre": "Adrien Rabiot",
+  "numeroDorsal": "25",
+  "Posicion": "Mediocampista",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafcf"
+  },
+  "id": "48",
+  "nombre": "Cristiano Ronaldo",
+  "numeroDorsal": "7",
+  "Posicion": "Delantero",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafd0"
+  },
+  "id": "49",
+  "nombre": "Paulo Dybala",
+  "numeroDorsal": "10",
+  "Posicion": "Delantero",
+  "Equipo": "Juventus"
+},
+{
+  "_id": {
+    "$oid": "663fdcdc437b4b4ba93dafd1"
+  },
+  "id": "50",
+  "nombre": "Alvaro Morata",
+  "numeroDorsal": "9",
+  "Posicion": "Delantero",
+  "Equipo": "Juventus"
+}]

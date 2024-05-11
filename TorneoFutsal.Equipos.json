@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "663fd9ce437b4b4ba93daf59"
+  },
+  "id": "1",
+  "nombre": "Real Madrid",
+  "numeroJugadores": "25",
+  "Tecnico": "Zinedine Zidane"
+},
+{
+  "_id": {
+    "$oid": "663fd9ce437b4b4ba93daf5a"
+  },
+  "id": "2",
+  "nombre": "Barcelona",
+  "numeroJugadores": "24",
+  "Tecnico": "Ronald Koeman"
+},
+{
+  "_id": {
+    "$oid": "663fd9ce437b4b4ba93daf5b"
+  },
+  "id": "3",
+  "nombre": "Manchester United",
+  "numeroJugadores": "22",
+  "Tecnico": "Ole Gunnar Solskjær"
+},
+{
+  "_id": {
+    "$oid": "663fd9ce437b4b4ba93daf5c"
+  },
+  "id": "4",
+  "nombre": "Bayern Munich",
+  "numeroJugadores": "23",
+  "Tecnico": "Hans-Dieter Flick"
+},
+{
+  "_id": {
+    "$oid": "663fd9ce437b4b4ba93daf5d"
+  },
+  "id": "5",
+  "nombre": "Juventus",
+  "numeroJugadores": "25",
+  "Tecnico": "Andrea Pirlo"
+}]
